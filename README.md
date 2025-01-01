@@ -72,5 +72,3 @@ MIT License - feel free to use this project for learning and development!
 ## 📞 Contact
 
 Email: abhishekrangnathkanade21@gmail.com
-
-Project Link: [https://github.com/yourusername/todo-app](https://github.com/yourusername/todo-app)
