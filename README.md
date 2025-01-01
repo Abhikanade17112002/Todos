@@ -2,6 +2,9 @@
 
 A modern, feature-rich Todo application built with React and Vite, showcasing the power of Context API and Local Storage.
 
+## 🌐 Live Demo
+[**Try the App Here**](https://stately-cascaron-046ccf.netlify.app/)
+
 ## 📸 App Preview
 ![Todo App Interface](https://github.com/Abhikanade17112002/Todos/blob/main/src/assets/todos.png)
 *A powerful todo application with CRUD operations and local storage*
@@ -72,3 +75,7 @@ MIT License - feel free to use this project for learning and development!
 ## 📞 Contact
 
 Email: abhishekrangnathkanade21@gmail.com
+
+## 🔗 Links
+- Live Demo: [https://stately-cascaron-046ccf.netlify.app/](https://stately-cascaron-046ccf.netlify.app/)
+- Project Repository: [https://github.com/yourusername/todo-app](https://github.com/yourusername/todo-app)
