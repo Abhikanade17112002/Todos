@@ -3,7 +3,7 @@
 A modern, feature-rich Todo application built with React and Vite, showcasing the power of Context API and Local Storage.
 
 ## 📸 App Preview
-![Todo App Interface](https://github.com/Abhikanade17112002/Todos/src/assets/todos.png)
+![Todo App Interface](https://github.com/Abhikanade17112002/Todos/blob/main/src/assets/todos.png)
 *A powerful todo application with CRUD operations and local storage*
 
 ## 🚀 Key Features & Tech Stack
